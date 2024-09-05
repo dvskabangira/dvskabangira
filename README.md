@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **YOUR DETAILS**
 
-- 👨‍💻 My portfolio website dvskabangira.nnetlify.app
+- 👨‍💻 My portfolio website dvskabangira.netlify.app
 
 - 💬 Ask me about **experience in deep learning, computer vision and human action recognition**
 
