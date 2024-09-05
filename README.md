@@ -10,7 +10,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 👨‍💻 My portfolio website https://dvskabangira.netlify.app
 
-- 💬 Ask me about **my experience in Deep Learninng,Computer Vision and HAR**
+- 💬 Ask me about **my experience in Deep Learning,Computer Vision and HAR**
 
 - 📫 How to reach me **dvskabangira001@gmail.com**
 
