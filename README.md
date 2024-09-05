@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio website dvskabangira.netlify.app
 
-- 💬 Ask me about **experience in deep learning, computer vision and human action recognition**
+- 💬 Ask me about **experience in DL,CV and HAR**
 
 - 📫 How to reach me **dvskabangira001@gmail.com**
 
