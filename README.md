@@ -6,7 +6,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 🔭 I’m currently pursuing **a Career in AI **
 
-- 🌱 I’m currently learning **YOUR DETAILS**
+- 🌱 I’m currently learning **pose estimation, image segmentation, action recognition**
 
 - 👨‍💻 My portfolio website dvskabangira.netlify.app
 
