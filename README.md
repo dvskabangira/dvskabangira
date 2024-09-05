@@ -6,11 +6,11 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 🔭 I’m currently pursuing **a Career in AI **
 
-- 🌱 I’m currently learning **pose estimation, image segmentation, action recognition**
+- 🌱 I’m currently learning **pose estimation, image segmentation, action recognition, action detection and tracking**
 
 - 👨‍💻 My portfolio website dvskabangira.netlify.app
 
-- 💬 Ask me about **experience in DL,CV and HAR**
+- 💬 Ask me about **experience in Deep Learnninng,Computer Vision and HAR**
 
 - 📫 How to reach me **dvskabangira001@gmail.com**
 
