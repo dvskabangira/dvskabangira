@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87
 
 - 🌱 I’m currently learning **pose estimation, image segmentation, action recognition, action detection and tracking**
 
-- 👨‍💻 My portfolio website dvskabangira.netlify.app
+- 👨‍💻 My portfolio website https://dvskabangira.netlify.app/
 
 - 💬 Ask me about **my experience in Deep Learninng,Computer Vision and HAR**
 
