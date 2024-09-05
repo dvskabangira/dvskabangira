@@ -1,7 +1,8 @@
 
 <h1 align="center" > Hi 👋, I'm KABANGIRA DEVIS </h1>
 <h3 align="center" >An artificial Intelligence Enthusiast </h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmayankchaudhary26%2FCool-Readme-ideas&psig=AOvVaw2nF4WsYhvjhYhRnzokYTgv&ust=1725632221224000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiJ55L_q4gDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" 
+src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmayankchaudhary26%2FCool-Readmeideas&psig=AOvVaw2nF4WsYhvjhYhRnzokYTgv&ust=1725632221224000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiJ55L_q4gDFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently pursuing **a Career in AI **
 
