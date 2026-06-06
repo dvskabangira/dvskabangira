@@ -2,7 +2,7 @@
 <h1 align="center" > Hi 👋, I'm KABANGIRA DEVIS </h1>
 <h3 align="center" >An artificial Intelligence Enthusiast </h3>
 <img align="right" alt="Coding" width="400" 
-src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFsOGhxaTNqNGVndDFncHZkMzFlamdkeHBxM3Z3cGRwMnpveGp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif">
 
 - 🔭 I’m currently pursuing **a Career in AI **
 
